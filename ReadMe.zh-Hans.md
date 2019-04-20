@@ -252,3 +252,6 @@
 项目代码已推到`github`，欢迎`Fork`和`star`.
 传送门: [.netCore-WinForms_Designer](https://github.com/yanglr/.netCore-WinForms_Designer) .
 
+**参考资料: **
+
+[WinForms Core App - A workaround invoking the Classic Framework Designer](https://github.com/dotnet/winforms/blob/1225f79dce17253a629d1a65c3c13f7a77cbaba1/Documentation/winforms-designer.md). 
