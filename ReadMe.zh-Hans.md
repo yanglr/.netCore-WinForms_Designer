@@ -118,7 +118,7 @@
 
 在上方地址栏输入`cmd` 进入命令行:
 
-![cmd-enter](C:\Users\Bruce\Desktop\cmd-enter.png)
+![cmd-enter](./screenShots/cmd-enter.png)
 
 
 
@@ -189,7 +189,7 @@
 
 将`.Designer`项目下的`Program.cs`中的`Form1`改为`MainForm`.
 
-![Rename3](C:\Users\Bruce\Desktop\Rename3.gif)
+![Rename3](./screenShots/Rename3.gif)
 
 
 
