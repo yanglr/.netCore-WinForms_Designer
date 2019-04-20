@@ -82,13 +82,13 @@
 
 #### 将.net core form下的Form1 重命名为 MainForm
 
-![Rename1](C:\Users\Bruce\Desktop\Rename1.gif)
+![Rename1](./screenShots/Rename1.gif)
 
 
 
 
 
-![ToBotton](C:\Users\Bruce\Desktop\ToBotton.gif)
+![ToBotton](./screenShots/ToBotton.gif)
 
 
 
