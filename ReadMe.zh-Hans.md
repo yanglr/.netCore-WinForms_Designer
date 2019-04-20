@@ -20,8 +20,6 @@
 
 **完整步骤: **
 
-[TOC]
-
 #### 安装 vs 2019 professional/enterprise版本
 
 此时试着创建一个.net core下的 win forms 应用，
