@@ -1,10 +1,10 @@
-**解决的vs2019中暂时无法为.net core WinForms使用 Designer 的临时方法**
+**解决vs2019中暂时无法为.net core WinForms使用 Designer 的临时方法**
 
 作者: Bravo Yeung
 
 本文首发于: 
 
-[解决的vs2019中暂时无法为.net core WinForms使用 Designer 的临时方法 - 博客园](https://www.cnblogs.com/enjoy233/p/workaround_to_use_the_designer_in_winForms_Core_App.html)  .
+[解决vs2019中暂时无法为.net core WinForms使用 Designer 的临时方法 - 博客园](https://www.cnblogs.com/enjoy233/p/workaround_to_use_the_designer_in_winForms_Core_App.html)  .
 
 目前.net core下的 Windows Forms的可视化设计器(Designer)尚不可用，后续的Visual Studio 2019 Update才会支持该部分的功能。不过目前我们想在vs2019中使用 Designer，有一种临时解决方法。
 
