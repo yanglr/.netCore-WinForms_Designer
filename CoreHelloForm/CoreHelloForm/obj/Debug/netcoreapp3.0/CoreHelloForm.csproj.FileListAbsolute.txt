@@ -1,0 +1,14 @@
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\obj\Debug\netcoreapp3.0\CoreHelloForm.MainForm.resources
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\obj\Debug\netcoreapp3.0\CoreHelloForm.csproj.GenerateResource.cache
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\obj\Debug\netcoreapp3.0\CoreHelloForm.csproj.CoreCompileInputs.cache
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\obj\Debug\netcoreapp3.0\CoreHelloForm.AssemblyInfoInputs.cache
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\obj\Debug\netcoreapp3.0\CoreHelloForm.AssemblyInfo.cs
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\bin\Debug\netcoreapp3.0\CoreHelloForm.exe
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\bin\Debug\netcoreapp3.0\CoreHelloForm.deps.json
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\bin\Debug\netcoreapp3.0\CoreHelloForm.runtimeconfig.json
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\bin\Debug\netcoreapp3.0\CoreHelloForm.runtimeconfig.dev.json
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\bin\Debug\netcoreapp3.0\CoreHelloForm.dll
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\bin\Debug\netcoreapp3.0\CoreHelloForm.pdb
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\obj\Debug\netcoreapp3.0\CoreHelloForm.dll
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\obj\Debug\netcoreapp3.0\CoreHelloForm.pdb
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm\obj\Debug\netcoreapp3.0\CoreHelloForm.csprojAssemblyReference.cache

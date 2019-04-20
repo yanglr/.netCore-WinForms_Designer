@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreHelloForm.Designer", "CoreHelloForm.Designer\CoreHelloForm.Designer.csproj", "{31A17577-4100-453E-934B-D1219A04B552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreHelloForm", "CoreHelloForm\CoreHelloForm.csproj", "{75438019-FEF0-43C7-A042-D131B95F6117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A17577-4100-453E-934B-D1219A04B552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A17577-4100-453E-934B-D1219A04B552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A17577-4100-453E-934B-D1219A04B552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A17577-4100-453E-934B-D1219A04B552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75438019-FEF0-43C7-A042-D131B95F6117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75438019-FEF0-43C7-A042-D131B95F6117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75438019-FEF0-43C7-A042-D131B95F6117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75438019-FEF0-43C7-A042-D131B95F6117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B18AD7-9E5F-4CAD-A54C-12969DC4B6F2}
+	EndGlobalSection
+EndGlobal

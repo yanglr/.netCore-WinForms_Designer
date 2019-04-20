@@ -1,0 +1,10 @@
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm.Designer\bin\Debug\CoreHelloForm.Designer.exe.config
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm.Designer\bin\Debug\CoreHelloForm.Designer.exe
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm.Designer\bin\Debug\CoreHelloForm.Designer.pdb
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm.Designer\obj\Debug\CoreHelloForm.Designer.csprojAssemblyReference.cache
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm.Designer\obj\Debug\CoreHelloForm.MainForm.resources
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm.Designer\obj\Debug\CoreHelloForm.Designer.Properties.Resources.resources
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm.Designer\obj\Debug\CoreHelloForm.Designer.csproj.GenerateResource.cache
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm.Designer\obj\Debug\CoreHelloForm.Designer.csproj.CoreCompileInputs.cache
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm.Designer\obj\Debug\CoreHelloForm.Designer.exe
+D:\Coding\csProj\CoreHelloForm\CoreHelloForm.Designer\obj\Debug\CoreHelloForm.Designer.pdb
