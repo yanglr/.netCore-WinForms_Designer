@@ -20,6 +20,7 @@ The two applications(.net core projects and its related .net Framework project) 
 
 
 In this solution，if we want to add new `Win Form` or new `UserControl`，we need to re-config the nested hierarchical relationship of the file `Form` in the .net Framework project`Classic Framework WinForms`.
+
 We recommend not to use text editor to edit the `.csproj` file. Instead, we recommend to use Mad Kristensen' [FileNestingExtention](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileNesting). We can install this `vs` plugin in advance.
 
 
