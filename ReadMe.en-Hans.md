@@ -4,7 +4,7 @@ Author: Bravo Yeung
 
 This article was first published in:
 
-[How to try WinForms Designer for .net core in vs2019 - cnblogs](https://www.cnblogs.com/enjoy233/p/workaround_to_use_the_designer_in_winForms_Core_App.html) .
+[Workaround to use the designer in winForms Core App - cnblogs](https://www.cnblogs.com/enjoy233/p/workaround_to_use_the_designer_in_winForms_Core_App.html) .
 
 The visual editor(Designer) for Windows Froms under .net core will be supported in Visual Studio 2019 Update. Currently vs2019 doesn't support Designer. To use Designer in vs2019, we gives out a temporary method.
 
@@ -41,7 +41,7 @@ After configured the project names and paths, the message will pop up,
 
 #### In settings, check "Use preview SDK" under .NET core framework
 
-![img](./screenShots/p3.jpg)
+![img](./screenShots/screenshot-usePreview.png)
 
 Need to restart vs to activate this setting.
 
