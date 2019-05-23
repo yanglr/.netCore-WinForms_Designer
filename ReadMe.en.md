@@ -41,7 +41,7 @@ After configured the project names and paths, the message will pop up,
 
 #### In settings, check "Use preview SDK" under .NET core framework
 
-![img](./screenShots/p3.jpg)
+![img](./screenShots/screenshot-usePreview.png)
 
 Need to restart vs to activate this setting.
 
