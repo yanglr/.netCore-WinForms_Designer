@@ -257,7 +257,10 @@ Press `F5`，running result as follows,
 
 
 Codes of the project committed to `github`，welcome to `Fork` and `star`.
-The portal: [.netCore-WinForms_Designer](https://github.com/yanglr/.netCore-WinForms_Designer) .
+
+The related repository: 
+
+[.netCore-WinForms_Designer](https://github.com/yanglr/.netCore-WinForms_Designer) .
 
 **Reference Materials**
 
