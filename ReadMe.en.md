@@ -25,7 +25,7 @@ We recommend not to use text editor to edit the `.csproj` file. Instead, we reco
 
 
 
-**Step by step: **
+## Step by step:
 
 #### Install vs 2019 professional/enterprise version
 
